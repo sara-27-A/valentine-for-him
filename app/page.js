@@ -18,7 +18,7 @@ export default function Home() {
       <main style={styles.container}>
         <div style={styles.card}>
           <h1 style={styles.title}>
-            You said YES ❤️
+            Awwww Officially my forever ❤️
           </h1>
           <p style={styles.text}>
             You are my favorite person,  
@@ -26,7 +26,7 @@ export default function Home() {
             and the best thing that ever happened to me.
           </p>
           <p style={styles.text}>
-            Happy Valentine’s Day, my love 💌
+            Happy Valentine’s Day, habibiiii 💌
           </p>
         </div>
       </main>
@@ -37,10 +37,10 @@ export default function Home() {
     <main style={styles.container}>
       <div style={styles.card}>
         <h1 style={styles.title}>
-          Will you be my Valentine? 💌
+          Will you be my Valentine ? 💌
         </h1>
         <p style={styles.text}>
-          You make my world softer, brighter, and warmer.
+          You are my heart, my soulmate, and my forever favorite person.
         </p>
 
         <div style={styles.buttons}>
@@ -51,7 +51,7 @@ export default function Home() {
               transform: `scale(${1 + noCount * 0.15})`
             }}
           >
-            Yes, always ❤️
+            Yes, of course ❤️
           </button>
 
           <button
